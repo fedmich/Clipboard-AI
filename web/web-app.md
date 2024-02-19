@@ -1,5 +1,13 @@
 ```
-use tailwindcss
+Responsive web site which [detail]
+```
+
+```
+Call the app, [APP_NAME]
+```
+
+```
+use Tailwindcss CDN for styling
 ```
 
 ```
