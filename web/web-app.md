@@ -30,3 +30,7 @@ Use uppercase on all letters. add this via CSS
 ```
 JS array in compressed form. about 5 items per line
 ```
+
+```
+Store the data into LocalStorage. use key [appKey]
+```
