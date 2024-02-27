@@ -34,3 +34,8 @@ JS array in compressed form. about 5 items per line
 ```
 Store the data into LocalStorage. use key [appKey]
 ```
+
+```
+Move JS code to script.js
+move CSS code to styles.css
+```
