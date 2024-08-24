@@ -1,0 +1,7 @@
+If this is a Python GUI it must load in middle of screen when the app loads
+
+Don't make a too small window, maybe minimum of width 250px by 250px height
+
+Arrange the form controls nicely
+
+And don't use any robotic or cryptic on messages
